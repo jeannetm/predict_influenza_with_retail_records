@@ -1,0 +1,2 @@
+# predict_influenza_with_retail_records
+Predicting seasonal influenza using supermarket retail records
