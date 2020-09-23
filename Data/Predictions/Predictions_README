@@ -2,5 +2,9 @@ In this folder we include the predicted time series:
 
 -The files "rbf_basketX_tarX_pattern20XX.csv" contain the time series of Basket-1 to Basket-5 (basket1-basket5) 
 for the different seasons (pattern2010-pattern2013) for 1 to 4 weeks ahead (tar1-tar4).
+
 -The files "rbf_AR_tarX.csv" contain the time series for the autoregresion baseline (AR) 
 for all the different seasons together for 1 to 4 weeks ahead (tar1-tar4).
+
+-The files "rbf_productX_tarX_pattern20XX.csv" contain the time series of Product-1 to Product-5 (product1-product5) 
+for the different seasons (pattern2010-pattern2013) for 1 to 4 weeks ahead (tar1-tar4).
