@@ -1,6 +1,6 @@
 We use a retail market dataset describing the purchases of the customers of COOP, one of the largest supermarket chains in Italy.
 
-We do not include the COOP files regarding the retail records as they are are not publicly data.
+We do not include the COOP files regarding the retail records as they are not publicly available data.
 However they are accessible through the SoBigData Catalogue in this link: http://data.d4science.org/ctlg/ResourceCatalogue/retail_market_data.
 
 SoBigData is the European Research Infrastructure for Big Data and Social Mining. 
